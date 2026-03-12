@@ -1,0 +1,6 @@
+password: DevTimmy22
+username: DevTimmy
+
+npm install mongodb
+
+mongodb+srv://DevTimmy:DevTimmy22@cluster0.csuugos.mongodb.net/?appName=Cluster0
