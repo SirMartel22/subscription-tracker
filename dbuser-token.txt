@@ -1,0 +1,7 @@
+// Bearer Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OWMyMzE1NTZjMDM4MTc4NzQzYTMxZDMiLCJpYXQiOjE3NzQzMzQyOTMsImV4cCI6MTc3NDQyMDY5M30.WNz7eGoebR6lIKEsI2VoLqCOdbNs8ahgmV1SdN85Z1s
+
+
+
+// New User Sign-in file
+
+{"success":true,"message":"User created successfully","data":{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OWMyMzE1NTZjMDM4MTc4NzQzYTMxZDMiLCJpYXQiOjE3NzQzMzQyOTMsImV4cCI6MTc3NDQyMDY5M30.WNz7eGoebR6lIKEsI2VoLqCOdbNs8ahgmV1SdN85Z1s","user":{"name":"Timmy Oyin","email":"timmyoyin@gmail.com","password":"$2b$10$Jyi1OdAMaFZgN5D7nEzpj.6BVz2xDKlihUIPyVXsoZe7XBbG/Zv6.","_id":"69c231556c038178743a31d3","createdAt":"2026-03-24T06:38:13.232Z","updatedAt":"2026-03-24T06:38:13.232Z","__v":0}}}
